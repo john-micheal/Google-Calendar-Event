@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cdQmPjvgqKdp0+TzmYvBhVbzPOO+P/U6ip4t16LBBxY=",
+  "Source": "Google Calendar Event",
+  "BasePath": "_content/Google Calendar Event",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylykeX6x6BeGMimrcibfQwHJvfQpc3zfGEZeRxvvpmtGCmyyz+/tT3yObQpbGoDx9pMqwz+UuLrvYtTCHggRnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Electronica Care\\Desktop\\API\\Google Calendar Event\\second\\Google Calendar Event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\google.apis\\1.63.0\\google.apis.1.63.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\google.apis.auth\\1.63.0\\google.apis.auth.1.63.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\google.apis.calendar.v3\\1.63.0.3171\\google.apis.calendar.v3.1.63.0.3171.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\google.apis.core\\1.63.0\\google.apis.core.1.63.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
